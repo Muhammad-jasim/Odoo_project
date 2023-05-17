@@ -5,7 +5,7 @@
     'sequence': 1,
     'description': """
     """,
-    'category': 'website',
+    'category': 'Account',
     'website': 'https://www.odoo.com',
     'images': [],
     'depends': ['sale', 'product', 'account'],
